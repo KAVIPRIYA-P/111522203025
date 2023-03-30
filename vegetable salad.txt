@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <h1 id="heading" style=text-align:center;color:purple;>VEGETABLE 
+SALAD</h1>
+ <title id="titleName">Vegetable Salad</title>
+ </head>
+<body bgcolor="#AFE1AF">
+<div class="container">
+ <center><img id="vegetableSaladImage" 
+src="https://www.acouplecooks.com/wp-content/uploads/2022/02/VegetableSalad-009.jpg" alt="Logo" width="300" height="200"></center> 
+ <h4 id="benefits" style=text-align:center;color:blue;>Benefits of Vegetable 
+Salad</h4>
+ <p id="benefitsParagraph" style=text-align:center;color:indigo;fontsize:11px;font-family:TimesNewRoman>Aside from their natural good taste 
+and great crunchy texture alongside wonderful colors and fragance, eating a 
+large serving fresh, raw vegetables each day can have significant health 
+benefits</p>
+ <h4 id="steps" style=text-align:center;color:blue;>Steps to make Vegetable 
+Salad</h4>
+ <ul id="stepForVegetableSalad" style=list-style-position:inside;textalign:center;color:indigo;>
+ <li>Take a large and clear glass bowl</li>
+<li>Try adding blanched, lightly steamed or roasted veggies like broccoli, 
+french beans, corn, cauliflower, baby corn</li>
+<li>Add lentils, beans or chickpeas or bean sprouts for more protein</li>
+<li>Grate some of the vegetables for a different texture</li>
+<li>Add marinated veggies like artichoke hearts for tang or other veggies like 
+radish for some pungency</li>
+<li>Swap in your own favorite combination of dried fruits, nuts and seeds</li>
+<li>Use fresh coriander or chives instead of parsley</li>
+ </ul>
+ </div>
+ <hr>
+ <footer id="footerText" style=text-align:center;color:indigo;>This easy 
+vegetable salad is packed with a variety of summer produce with all textures 
+and colors one could ever want
+ </footer>
+</body>
+</html>
